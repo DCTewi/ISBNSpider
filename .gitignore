@@ -1,0 +1,7 @@
+*.xlsx
+debug*
+temp*
+result*
+*.txt
+
+!requirements.txt
